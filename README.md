@@ -10,6 +10,7 @@ https://tale-q.vercel.app/
 - Customizable job requirements settings 
 
 # Things to do : 
+- pre filter 
 - file type validation for cv when uploading (only allow pdf, png)
 - zip file for resume, extract then only upload
 - job position can edit and delete
